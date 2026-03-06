@@ -3,3 +3,10 @@ __pycache__/
 venv/
 *.log
 node_modules/
+etc/
+Include/
+Lib/
+share/
+storage/
+etc/
+Scripts/
