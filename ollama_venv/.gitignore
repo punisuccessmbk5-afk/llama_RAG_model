@@ -1,12 +1,10 @@
-__pycache__/
-.env
-venv/
-*.log
-node_modules/
-etc/
-Include/
+# Virtual environment
 Lib/
-share/
-storage/
-etc/
 Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
