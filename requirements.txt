@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+pandas
+numpy
+ollama
+pillow
+langchain
+langchain-community
+langchain-text-splitters
+python-docx
+PyPDF2
+openpyxl
